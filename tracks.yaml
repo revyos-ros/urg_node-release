@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/urg_node-release
 tracks:
   dashing:
     actions:
