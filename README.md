@@ -1,3 +1,26 @@
+## urg_node (jazzy) - 1.1.2-1
+
+The packages in the `urg_node` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy urg_node --override-release-repository-push-url git@github.com:revyos-ros/urg_node-release.git --edit` on `Mon, 23 Jun 2025 04:27:19 -0000`
+
+The `urg_node` package was released.
+
+Version of package(s) in repository `urg_node`:
+
+- upstream repository: https://github.com/ros-drivers/urg_node.git
+- release repository: https://github.com/revyos-ros/urg_node-release.git
+- rosdistro version: `1.1.2-1`
+- old version: `1.2.0-1`
+- new version: `1.1.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## urg_node (jazzy) - 1.2.0-1
 
 The packages in the `urg_node` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy urg_node --override-release-repository-push-url git@github.com:revyos-ros/urg_node-release.git` on `Fri, 13 Jun 2025 03:59:47 -0000`
